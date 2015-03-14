@@ -179,6 +179,17 @@ If you want to go custom, you can implement your own data model, it just has to 
       }
     }
 
+### Developing
+Installing nodejs globally.
+And running following scripts
+
+```
+npm install -g bower gulp coffee-script
+npm install
+bower install
+gulp
+```
+
 ### Troubleshooting
 
 Using ``<!DOCTYPE html>`` for using the library with IE >=9. IE < 9 is simply not supported.

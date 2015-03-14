@@ -4,7 +4,8 @@
   "version": "0.0.7",
   "homepage": "https://github.com/fulmicoton/fattable",
   "authors": [
-    "Paul Masurel <paul.masurel@gmail.com>"
+    "Paul Masurel <paul.masurel@gmail.com>",
+    "Yonggang Luo <luoyonggang@gmail.com>"
   ],
   "description": "Infinite table with column headers. No dependancy. VanillaJS all the way.",
   "keywords": [
@@ -24,5 +25,8 @@
     "Makefile",
     "closure",
     ".readymade"
-  ]
+  ],
+  "devDependencies": {
+    "closure-compiler": "~0.2.6"
+  }
 }
